@@ -1,13 +1,13 @@
 ---
-title: My book title
-author: Daniel Herzog
-rights: MIT License
-lang: en-US
-mainlang: english
-otherlang: english
-tags: [pandoc, book, my-book, etc]
+title: Mi Libro
+author: Bernard Uriza
+rights: Todos los derechos reservados
+lang: es-MX
+mainlang: spanish
+otherlang: spanish
+tags: [libro, bernard-uriza]
 abstract: |
-  Your summary.
+  Descripción de tu libro aquí.
 mainfont: DejaVu Sans
 # Filter preferences:
 # - pandoc-crossref
